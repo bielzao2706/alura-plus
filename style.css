@@ -34,3 +34,27 @@ body {
     text-decoration: none;
     display: block;
 }
+
+.principal-titulo{
+    font-size: 28px;
+    font-weight: 700;
+
+
+}
+.principal-aviso{
+    font-size 12px;
+    color:var(--cinza-secundario)
+}
+
+
+.principal-imagem{
+margin: 16px 0 32px 0;
+}
+
+
+.principal-imagem{
+margin:  16px 0 32px 0;
+}
+.principal-caixa{
+    margin:0 96px;
+}
