@@ -65,30 +65,29 @@
     .principal-caixa{
     margin: 0 96px;
     }
-
- 
+    
     .secundaria{
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
     align-items: center;
     margin: 0 100px;
-}
-
-.secundaria-imagem{
+    }
+    
+    .secundaria-imagem{
     width: 80%;
-}
-
-.secundaria-titulo{
+    }
+    
+    .secundaria-titulo{
     font-weight: 700;
     font-size: 48px;
-}
-
-.secundaria-texto{
-    color:var(--cinza-secundario)
-}
-
-.secundaria-botao{
+    }
+    
+    .secundaria-texto{
+    color: var(--cinza-secundario);
+    }
+    
+    .secundaria-botao{
     display: inline-block;
     margin-top: 16px;
-}
+    }
